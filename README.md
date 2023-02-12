@@ -1,4 +1,4 @@
-First install solathon
+First install solathon, 
 Run this command:
 
 pip install solathon
